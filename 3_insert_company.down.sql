@@ -1,1 +1,1 @@
-DELETE FROM company WHERE id = -1;
+DELETE FROM company WHERE id = 1;
