@@ -1,0 +1,10 @@
+USE mip;
+CREATE TABLE company(
+  id BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  gv_id BIGINT NOT NULL,
+  name VARCHAR(255),
+  symbol VARCHAR(30),
+  gv_url VARCHAR(255),
+  parsed_docs BOOLEAN NOT NULL
+);
+
