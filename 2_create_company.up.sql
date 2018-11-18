@@ -6,4 +6,3 @@ CREATE TABLE company(
   gv_url VARCHAR(255),
   parsed_docs BOOLEAN NOT NULL
 );
-
