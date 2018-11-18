@@ -1,0 +1,2 @@
+# CREATE DATABASE mip;
+USE mip;
